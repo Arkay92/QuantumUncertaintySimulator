@@ -19,6 +19,12 @@ Run the python script provided in the repository to start the interactive simula
 python main.py
 ```
 
+or
+
+```
+jupyter notebook Quantum_Uncertainty_Simulator.ipynb
+```
+
 Adjust the sigma_x parameter using the slider to see how it affects the uncertainties in position and momentum, and observe the corresponding changes in the wave packet visualizations in position and momentum spaces.
 
 ## Features
